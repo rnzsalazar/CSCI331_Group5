@@ -18,7 +18,7 @@
 
 ## Group Notes
 
-[HW3 Notes](https://github.com/rnzsalazar/CSCI331_Group5)
+[HW3 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
 
 ## Video Presentation
 

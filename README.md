@@ -14,7 +14,7 @@
 
 ## Project Files Location
 
-[HW3 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5)
+[HW3 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW3)
 
 ## Group Notes
 

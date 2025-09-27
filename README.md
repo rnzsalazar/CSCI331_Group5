@@ -4,7 +4,7 @@
 
 # HW 3 - Multiple Queries
 
-## Group Members
+## Group 5 Members
 
 - **David Fazylov**
 - **Devak Mehta** - *Co-Leader*
@@ -20,9 +20,21 @@
 
 [HW3 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
 
-## Video Presentation
+## Group To-do List
 
-[Video Presentation Link](https://youtu.be/LS1mmUvywjw)
+[HW3 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/Group5_Todo_List.xlsx)
+
+## Pair 1: Nadia and David - Video
+
+[Pair 1 Video](https://youtu.be/qopjNlT_59s)
+
+## Pair 2: Devak, Mret and Renzo - Video
+
+[[Pair 2 Video]](https://youtu.be/aS7neb4CYiI)
+
+## Individual Videos - Combined as a single video
+
+[Video Presentation Link](https://youtu.be/S-AQqGypy_Q)
 
 ## Technology Used
 - SSMS
@@ -31,4 +43,5 @@
 - DBeaver
 - Google Slides
 - Google Docs
+- Nvidia Shadowplay
 - ChatGPT

@@ -22,7 +22,7 @@
 
 ## Group To-do List
 
-[HW3 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/Group5_Todo_List.xlsx)
+[HW3 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/Group5_Todo_List.xlsx)
 
 ## Pair 1: Nadia and David - Video
 
@@ -30,7 +30,7 @@
 
 ## Pair 2: Devak, Mret and Renzo - Video
 
-[[Pair 2 Video]](https://youtu.be/aS7neb4CYiI)
+[Pair 2 Video](https://youtu.be/aS7neb4CYiI)
 
 ## Individual Videos - Combined as a single video
 

@@ -34,7 +34,7 @@
 
 ## Individual Videos - Combined as a single video
 
-[Video Presentation Link](https://youtu.be/S-AQqGypy_Q)
+[Individual Videos Combined](https://youtu.be/S-AQqGypy_Q)
 
 ## Technology Used
 - SSMS

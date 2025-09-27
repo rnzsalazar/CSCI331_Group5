@@ -2,7 +2,7 @@
 # Table of Contents
 - [HW 3](#hw-3---multiple-queries)
 
-# HW 3 - Multiple Queries
+# HW 3 - Joins
 
 ## Group 5 Members
 

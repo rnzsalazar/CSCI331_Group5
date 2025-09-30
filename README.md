@@ -26,15 +26,15 @@
 
 ## Pair 1: Nadia and David - Video
 
-[Pair 1 Video](https://youtu.be/qopjNlT_59s)
+[Pair 1 Video](https://youtu.be/NcW2PKwC0go) [Pair 1 Video (Backup)](https://youtu.be/h4A7eVpK1iM)
 
 ## Pair 2: Devak, Mret and Renzo - Video
 
-[Pair 2 Video](https://youtu.be/aS7neb4CYiI)
+[Pair 2 Video](https://youtu.be/aS7neb4CYiI) [Pair 2 Video (Backup)](https://youtu.be/HNr6GJVerjc)
 
 ## Individual Videos - Combined as a single video
 
-[Individual Videos Combined](https://youtu.be/S-AQqGypy_Q)
+[Individual Videos Combined](https://youtu.be/sZ2ZYyynr6A) [Individual Videos Combined (Backup Link)](https://youtu.be/TMRz_TTwk5E)
 
 ## Technology Used
 - SSMS

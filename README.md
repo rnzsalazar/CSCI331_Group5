@@ -27,6 +27,7 @@
 
 ## Pair 1: Nadia and David - Video
 
+
 [Pair 1 Video](https://youtu.be/NcW2PKwC0go) [Pair 1 Video (Backup)](https://youtu.be/h4A7eVpK1iM)
 
 ## Pair 2: Devak, Mret and Renzo - Video
@@ -87,9 +88,9 @@
 
 ## Individual Videos
 
-[David](https://youtu.be/0nQIM_gDMR0)
-[Devak](https://youtu.be/eWZm08szDpc)
-[Renzo](https://youtu.be/yyG7J96tn1Q)
+[David](https://youtu.be/0nQIM_gDMR0) [David (Backup)](https://youtu.be/2X30FR2ZYcM) 
+[Devak](https://youtu.be/eWZm08szDpc) [Devak (Backup)](https://youtu.be/PNBpzXMtYsQ)
+[Renzo](https://youtu.be/yyG7J96tn1Q) [Renzo (Backup)](https://youtu.be/Wuixhz1Dbn0)
 
 ## Technology Used
 - SSMS

@@ -45,3 +45,58 @@
 - Google Docs
 - Nvidia Shadowplay
 - ChatGPT
+
+# HW 4&5 - Subqueries and Table Expressions
+
+## Group 5 Members
+
+- **David Fazylov**
+- **Devak Mehta** - *Co-Leader*
+- **Mret Hein**
+- **Nadia Islam**
+- **Renzo Salazar Cueva** - *Leader*
+
+## Project Files Location
+
+[HW4&5 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW4%265)
+
+## Group Notes
+
+[HW4&5 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
+
+## Group 5 Gantt Chart
+
+[HW4&5 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
+
+## Pair 1: Devak, Renzo and David - Video
+
+[Pair 1 Video](https://youtu.be/hLAMV3JJ6uY) [Pair 1 Video (Backup)]()
+
+## Pair 2: Nadia and Mret - Video
+
+[Pair 2 Video]() [Pair 2 Video (Backup)]()
+
+## Pair1 To-do List
+
+[HW3 Todo List]()
+
+## Pair2 To-do List
+
+[HW3 Todo List]()
+
+## Individual Videos - Combined as a single video
+
+[Individual Videos Combined]() [Individual Videos Combined (Backup Link)]()
+
+## Technology Used
+- SSMS
+- Docker
+- Azure Data Studio
+- Python
+- DBeaver
+- Google Docs
+- Google Meet
+- Excel
+- Nvidia Shadowplay
+- OBS
+- ChatGPT

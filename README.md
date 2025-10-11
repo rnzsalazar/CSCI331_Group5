@@ -75,7 +75,7 @@
 
 ## Pair 2: Nadia and Mret - Video
 
-[Pair 2 Video]() [Pair 2 Video (Backup)]()
+[Pair 2 Video](https://youtu.be/BEbL4LnBXtc) [Pair 2 Video (Backup)](https://youtu.be/fKjYmZbXwOg)
 
 ## Pair1 To-do List
 
@@ -85,9 +85,11 @@
 
 [HW4&5 Todo List]()
 
-## Individual Videos - Combined as a single video
+## Individual Videos
 
-[Individual Videos Combined]() [Individual Videos Combined (Backup Link)]()
+[David](https://youtu.be/0nQIM_gDMR0)
+[Devak](https://youtu.be/eWZm08szDpc)
+[Renzo](https://youtu.be/yyG7J96tn1Q)
 
 ## Technology Used
 - SSMS

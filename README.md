@@ -71,7 +71,7 @@
 
 ## Pair 1: Devak, Renzo and David - Video
 
-[Pair 1 Video](https://youtu.be/hLAMV3JJ6uY) [Pair 1 Video (Backup)]()
+[Pair 1 Video](https://youtu.be/hLAMV3JJ6uY) [Pair 1 Video (Backup)](https://youtu.be/bi_cgYn4mF4)
 
 ## Pair 2: Nadia and Mret - Video
 

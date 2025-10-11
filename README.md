@@ -1,6 +1,7 @@
 # CSCI331 - GROUP 5
 # Table of Contents
 - [HW 3](#hw-3---multiple-queries)
+- [HW 4&5](#HW-45---subqueries-and-table-expressions)
 
 # HW 3 - Joins
 
@@ -62,11 +63,11 @@
 
 ## Group Notes
 
-[HW4&5 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
+[HW4&5 Notes]()
 
 ## Group 5 Gantt Chart
 
-[HW4&5 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW3/HW3_Group5_Notes.docx)
+[HW4&5 Gantt Chart]()
 
 ## Pair 1: Devak, Renzo and David - Video
 

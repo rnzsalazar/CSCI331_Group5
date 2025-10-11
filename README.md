@@ -58,6 +58,8 @@
 - **Nadia Islam**
 - **Renzo Salazar Cueva** - *Leader*
 
+> **Note:** Group member changes were noticed on the same date as the project due date, so the original group members remained the same.
+
 ## Project Files Location
 
 [HW4&5 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW4%265)
@@ -91,6 +93,7 @@
 - [David](https://youtu.be/0nQIM_gDMR0) [David (Backup)](https://youtu.be/2X30FR2ZYcM) 
 - [Devak](https://youtu.be/eWZm08szDpc) [Devak (Backup)](https://youtu.be/PNBpzXMtYsQ)
 - [Renzo](https://youtu.be/yyG7J96tn1Q) [Renzo (Backup)](https://youtu.be/Wuixhz1Dbn0)
+- [Mret](https://youtu.be/9MUFmLAd640) [Mret (Backup)](https://youtu.be/-y6iaEYEbDs)
 
 ## Technology Used
 - SSMS

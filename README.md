@@ -63,11 +63,11 @@
 
 ## Group Notes
 
-[HW4&5 Notes]()
+[HW4&5 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW4%265/Group5_Timeline_Group_Meetings.docx)
 
 ## Group 5 Gantt Chart
 
-[HW4&5 Gantt Chart]()
+[HW4&5 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW4%265/Gantt_Group5.xlsx)
 
 ## Pair 1: Devak, Renzo and David - Video
 
@@ -79,11 +79,11 @@
 
 ## Pair1 To-do List
 
-[HW3 Todo List]()
+[HW4&5 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW4%265/Group5_Todo_List_Pair1.xlsx)
 
 ## Pair2 To-do List
 
-[HW3 Todo List]()
+[HW4&5 Todo List]()
 
 ## Individual Videos - Combined as a single video
 

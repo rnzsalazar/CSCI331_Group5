@@ -84,13 +84,13 @@
 
 ## Pair2 To-do List
 
-[HW4&5 Todo List]()
+[HW4&5 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW4%265/Group5_Todo_List_Pair2.xlsx)
 
 ## Individual Videos
 
-[David](https://youtu.be/0nQIM_gDMR0) [David (Backup)](https://youtu.be/2X30FR2ZYcM) 
-[Devak](https://youtu.be/eWZm08szDpc) [Devak (Backup)](https://youtu.be/PNBpzXMtYsQ)
-[Renzo](https://youtu.be/yyG7J96tn1Q) [Renzo (Backup)](https://youtu.be/Wuixhz1Dbn0)
+- [David](https://youtu.be/0nQIM_gDMR0) [David (Backup)](https://youtu.be/2X30FR2ZYcM) 
+- [Devak](https://youtu.be/eWZm08szDpc) [Devak (Backup)](https://youtu.be/PNBpzXMtYsQ)
+- [Renzo](https://youtu.be/yyG7J96tn1Q) [Renzo (Backup)](https://youtu.be/Wuixhz1Dbn0)
 
 ## Technology Used
 - SSMS

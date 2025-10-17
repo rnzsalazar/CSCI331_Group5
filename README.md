@@ -159,3 +159,6 @@
 - Nvidia Shadowplay
 - OBS
 - ChatGPT
+
+## Important Note
+Due to Andrea being removed last minute from our group, We decided the path of least resistance and the one that suit all would be to restructure 2-2-1 and Devak decided to take the responsibilty to work alone on this one considering Andrea was paired with him. 

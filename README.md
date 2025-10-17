@@ -2,6 +2,7 @@
 # Table of Contents
 - [HW 3](#hw-3---multiple-queries)
 - [HW 4&5](#HW-45---subqueries-and-table-expressions)
+- [HW 6](#HW-6-set-operators)
 
 # HW 3 - Joins
 
@@ -94,6 +95,57 @@
 - [Devak](https://youtu.be/eWZm08szDpc) [Devak (Backup)](https://youtu.be/PNBpzXMtYsQ)
 - [Renzo](https://youtu.be/yyG7J96tn1Q) [Renzo (Backup)](https://youtu.be/Wuixhz1Dbn0)
 - [Mret](https://youtu.be/9MUFmLAd640) [Mret (Backup)](https://youtu.be/-y6iaEYEbDs)
+
+## Technology Used
+- SSMS
+- Docker
+- Azure Data Studio
+- Python
+- DBeaver
+- Google Docs
+- Google Meet
+- Excel
+- Nvidia Shadowplay
+- OBS
+- ChatGPT
+
+# HW 6 - Set Operators
+
+## Group 5 Members
+
+- **David Fazylov**
+- **Devak Mehta** - *Co-Leader*
+- **Renzo Salazar Cueva** - *Leader*
+- **Ajay Pal**
+- **Bryan Sanchez**
+
+## Project Files Location
+
+[HW6 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW6)
+
+## Group 5 Notes
+
+[HW6 Notes]()
+
+## Group 5 To-do List
+
+[HW6 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW6/Class%20Time%2010_45-Group%20Number5%20%E2%80%93%20To-do%20list%20for%20Homework%20Number6.xlsx)
+
+## Group 5 Gantt Chart
+
+[HW6 Gantt Chart]()
+
+## Pair 1: David and Renzo - Video
+
+[Pair 1 Video]() [Pair 1 Video (Backup)]()
+
+## Pair 2: Bryan and Ajay
+
+[Pair 2 Video]() [Pair 2 Video (Backup)]()
+
+## Pair 3: Devak
+
+[Pair 3 Video]() [Pair 3 Video (Backup)]()
 
 ## Technology Used
 - SSMS

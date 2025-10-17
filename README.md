@@ -137,7 +137,7 @@
 
 ## Pair 1: David and Renzo - Video
 
-[Pair 1 Video]() [Pair 1 Video (Backup)]()
+[Pair 1 Video](https://youtu.be/MdtRSZY-Jr0) [Pair 1 Video (Backup)]()
 
 ## Pair 2: Bryan and Ajay
 
@@ -145,7 +145,7 @@
 
 ## Pair 3: Devak
 
-[Pair 3 Video]() [Pair 3 Video (Backup)]()
+[Pair 3 Video](https://youtu.be/6wBemuAn7jM) [Pair 3 Video (Backup)]()
 
 ## Technology Used
 - SSMS

@@ -133,19 +133,19 @@
 
 ## Group 5 Gantt Chart
 
-[HW6 Gantt Chart]()
+[HW6 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW6/Gantt_Group5.xlsx)
 
 ## Pair 1: David and Renzo - Video
 
-[Pair 1 Video](https://youtu.be/MdtRSZY-Jr0) [Pair 1 Video (Backup)]()
+[Pair 1 Video](https://youtu.be/MdtRSZY-Jr0) [Pair 1 Video (Backup)](https://youtu.be/vJoZ6a1BkbM)
 
 ## Pair 2: Bryan and Ajay
 
-[Pair 2 Video]() [Pair 2 Video (Backup)]()
+[Pair 2 Video](https://youtu.be/pXxHn8OsRXc) [Pair 2 Video (Backup)](https://youtu.be/ZPoaWID2-XE)
 
 ## Pair 3: Devak
 
-[Pair 3 Video](https://youtu.be/6wBemuAn7jM) [Pair 3 Video (Backup)]()
+[Pair 3 Video](https://youtu.be/6wBemuAn7jM) [Pair 3 Video (Backup)](https://youtu.be/--S4jSxgUZk)
 
 ## Technology Used
 - SSMS

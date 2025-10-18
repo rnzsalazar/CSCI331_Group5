@@ -139,11 +139,11 @@
 
 [Pair 1 Video](https://youtu.be/MdtRSZY-Jr0) [Pair 1 Video (Backup)](https://youtu.be/vJoZ6a1BkbM)
 
-## Pair 2: Bryan and Ajay
+## Pair 2: Bryan and Ajay - Video
 
 [Pair 2 Video](https://youtu.be/pXxHn8OsRXc) [Pair 2 Video (Backup)](https://youtu.be/ZPoaWID2-XE)
 
-## Pair 3: Devak
+## Pair 3: Devak - Video
 
 [Pair 3 Video](https://youtu.be/6wBemuAn7jM) [Pair 3 Video (Backup)](https://youtu.be/--S4jSxgUZk)
 

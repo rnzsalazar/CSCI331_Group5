@@ -125,7 +125,7 @@
 
 ## Group 5 Notes
 
-[HW6 Notes]()
+[HW6 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW6/Group%205%20Meeting%20Notes%20%E2%80%94%20Homework%206.pdf)
 
 ## Group 5 To-do List
 

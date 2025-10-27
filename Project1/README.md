@@ -22,7 +22,7 @@ With the professor’s approval, they were permitted to complete their portion o
 
 ## Pair 2: Bryan and Ajay - Video
 
-[Pair 2 Video](https://youtu.be/5K5o8JhkjoE) [Pair 2 Video (Backup)](https://youtu.be/82bVZ9FelHY)
+[Pair 2 Video](https://youtu.be/5K5o8JhkjoE) [Pair 2 Video (Backup)](https://youtu.be/tPjnSnY7qvs)
 
 ## Pair 3: David - Video
 

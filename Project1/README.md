@@ -18,7 +18,7 @@ With the professor’s approval, they were permitted to complete their portion o
 
 ## Pair 1: Devak and Renzo - Video
 
-[Pair 1 Video](https://youtu.be/Q4dVe55bnUk) [Pair 1 Video (Backup)]()
+[Pair 1 Video](https://youtu.be/Q4dVe55bnUk) [Pair 1 Video (Backup)](https://youtu.be/q6PupvJp5Wc)
 
 ## Pair 2: Bryan and Ajay - Video
 
@@ -26,7 +26,7 @@ With the professor’s approval, they were permitted to complete their portion o
 
 ## Pair 3: David - Video
 
-[Pair 3 Video](https://youtu.be/vOcz7eqSHqk) [Pair 3 Video (Backup)]()
+[Pair 3 Video](https://youtu.be/vOcz7eqSHqk) [Pair 3 Video (Backup)](https://youtu.be/jkbHzMxWlSU)
 
 ## Technology Used
 - SSMS

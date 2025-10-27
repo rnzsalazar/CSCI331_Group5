@@ -14,7 +14,7 @@ With the professor’s approval, they were permitted to complete their portion o
 
 ## Project Files Location
 
-[Project1 Group Project Files]()
+[Project1 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project1/NOTEBOOK_SQL_FILES)
 
 ## Pair 1: Devak and Renzo - Video
 
@@ -22,7 +22,7 @@ With the professor’s approval, they were permitted to complete their portion o
 
 ## Pair 2: Bryan and Ajay - Video
 
-[Pair 2 Video]() [Pair 2 Video (Backup)]()
+[Pair 2 Video](https://youtu.be/5K5o8JhkjoE) [Pair 2 Video (Backup)](https://youtu.be/82bVZ9FelHY)
 
 ## Pair 3: David - Video
 

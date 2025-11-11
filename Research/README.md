@@ -1,4 +1,4 @@
-# Project1 - Mysteries
+# Research - Fully Qualified Domains, Fully Qualified Table Names, and Taxonomies
 
 ## Group 5 Members
 

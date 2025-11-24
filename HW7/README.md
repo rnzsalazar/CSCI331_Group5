@@ -11,7 +11,7 @@
 
 ## Project Files Location
 
-[HW7 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW6)
+[HW7 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW7)
 
 ## Group 5 Notes
 
@@ -19,7 +19,7 @@
 
 ## Group 5 To-do List
 
-[HW7 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
+[HW7 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/Class%20Time%20-Group%20Number%20%E2%80%93%20To-do%20list.xlsx)
 
 ## Group 5 Gantt Chart
 
@@ -27,7 +27,7 @@
 
 ## Group 5 Video
 
-[Group5 Video](https://youtu.be/MdtRSZY-Jr0) [Group 5 (Backup)](https://youtu.be/vJoZ6a1BkbM)
+[Group5 Video]() [Group 5 (Backup)]()
 
 ## Technology Used
 - SSMS

@@ -15,7 +15,7 @@
 
 ## Group 5 Notes
 
-[HW7 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
+[HW7 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/Group5_HW7_Notes.pdf)
 
 ## Group 5 To-do List
 
@@ -27,7 +27,7 @@
 
 ## Group 5 Video
 
-[Group5 Video]() [Group 5 (Backup)]()
+[Group5 Video](https://youtu.be/-TQZVwsq7CM) [Group 5 (Backup)](https://youtu.be/S93EbA2pJAs)
 
 ## Technology Used
 - SSMS

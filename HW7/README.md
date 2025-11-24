@@ -11,19 +11,19 @@
 
 ## Project Files Location
 
-[HW6 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW6)
+[HW7 Group Project Files](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW6)
 
 ## Group 5 Notes
 
-[HW6 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
+[HW7 Notes](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
 
 ## Group 5 To-do List
 
-[HW6 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
+[HW7 Todo List](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/)
 
 ## Group 5 Gantt Chart
 
-[HW6 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/Gantt_Group5.xlsx)
+[HW7 Gantt Chart](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/HW7/Gantt_Group5.xlsx)
 
 ## Group 5 Video
 
@@ -39,3 +39,4 @@
 - Google Meet
 - Excel
 - OBS
+- VSCode

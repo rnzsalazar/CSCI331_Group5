@@ -1,4 +1,4 @@
-# HW 7 - Beyond the Fundamentals of Querying
+# Project 3 - PrestigeCars
 
 ## Group 5 Members
 
@@ -26,7 +26,7 @@
 
 ## Group 5 Tasks and Todo List
 
-[HW7 Notes]()
+[Tasks and Todo](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project3_PrestigeCars/PROJECT3_TASKS_TODO.pdf)
 
 ## Group 5 Video
 

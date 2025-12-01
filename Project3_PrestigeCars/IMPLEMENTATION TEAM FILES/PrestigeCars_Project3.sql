@@ -292,14 +292,103 @@ VALUES ('Kieran', 'O''Harris', 'kierano@gmail.com', '347-123-1242', '71, Askwith
 INSERT INTO HumanResources.Customer (FirstName, LastName, Email, Phone, AddressLine, City, PostalCode, CountryId) 
 VALUES ('Laurence', 'Saint Yves', 'laurences@gmail.com', '347-123-1243', '49, Rue Quicampoix', 'Marseille', '13001', 2);
 
-/*
+-- Product Information - Make
 
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Ferrari')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Porshe')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Lamborghini')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Aston Martin')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'BMW')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Rolls Royce')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Maybach')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Mercedes')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'McLaren')
+INSERT INTO ProductInformation.Make(MakeName)
+VALUES
+	(N'Ford')
 
-Bryan's INSERT GOES HERE
+-- Product Information - Model
 
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced, YearLastProduced)
+Values 
+	(1, N'Daytona', 1998, 2018)
+INSERT INTO ProductInformation.Model (MakeId, ModelName,  YearFirstProduced, YearLastProduced)
+Values 
+	(2, N'911', 2002, 2017)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced)
+Values 
+	(3, N'Countach', 1974)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced, YearLastProduced)
+Values 
+	(4, N'Db2', 1997, 2012)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced, YearLastProduced)
+Values 
+	(5, N'E39', 1995, 2004)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced)
+Values 
+	(6, N'Ghost', 2013)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced)
+Values 
+	(7, N'Exelero', 2007)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced, YearLastProduced)
+Values 
+	(8, N'R107', 1999, 2012)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced, YearLastProduced)
+Values 
+	(9, N'Spider', 2009, 2020)
+INSERT INTO ProductInformation.Model (MakeId, ModelName, YearFirstProduced)
+Values 
+	(10, N'F-150', 2017)
 
-*/
-
+-- Product Information - Vehicle
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine, Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(1234567, 1, N'Blue', N'Brown', N'Coupe', N'6.4L V8', N'5-Speed', N'High Octane Fuel', 1999, 60000, 800, 400, 300)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(2234567, 2, N'White', N'Brown', N'Coupe', N'3.0-Liter Twin-Turbo',N'Manuel', N'Premium Unleaded Gasoline', 1998,120000,4000,10000, 600)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine, Transmission,FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(3234567, 3, N'Yellow', N'Black', N'Coupe', N'V12', N'Manuel', N'High Octane Fuel', 2001, 500000,10000, 100000, 800)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(4234567, 4, N'Grey', N'Red', N'Coupe', N'2.6-liter',N'Manuel', N'Gasoline', 1997, 300000, 15000, 30000, 1000)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(5234567, 5, N'White', N'Black', N'Sedan', N'2.0-2.8 L', N'Auto', N'Gasoline', 1998, 10000,800, 1200, 500)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(6234567, 6, N'Blue', N'Black', N'4-Door Sedan', N'V12', N'Auto', N'High Octane Fuel', 2015, 900000,10000, 100000, 1000)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(7234567, 7, N'Black', N'Black', N'Coupe', N'V12',N'Auto', N'High Octane Fuel', 2009, 300000, 10000, 90000, 700)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine,Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(8234567, 8, N'Red', N'Black', N'Convertible', N'2.8',N'Auto', N'High Octane Fuel', 2007, 10000, 1200, 9000, 800)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle,Transmission, Engine, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(9234567, 9, N'Orange', N'Black', N'Convertible', N'4.0', N'Auto', N'High Octane Fuel', 2019, 300000, 10000, 9000, 1200)
+INSERT INTO ProductInformation.Vehicle(VIN,ModelId, ExteriorColor, InteriorColor, BodyStyle, Engine, Transmission, FuelType, ModelYear, Cost, RepairsCost, PartsCost, TransportingCost)
+Values
+	(1334567, 10, N'RED', N'Black', N'Heavy Duty 4 Door', N'2.7', N'Auto', N'High Octane Fuel', 2020, 80000,900, 500, 800)
 
 --SalesOrder
 INSERT INTO Sales.SalesOrder (StaffId, CustomerId, OrderDate, InvoiceNumber, ReviewRow) VALUES (5, 1, '2015-04-06', 'EURFR009', 0);
@@ -313,21 +402,17 @@ INSERT INTO Sales.SalesOrder (StaffId, CustomerId, OrderDate, InvoiceNumber, Rev
 INSERT INTO Sales.SalesOrder (StaffId, CustomerId, OrderDate, InvoiceNumber, ReviewRow) VALUES (8, 9, '2015-01-02', 'GBPGB021', 0);
 INSERT INTO Sales.SalesOrder (StaffId, CustomerId, OrderDate, InvoiceNumber, ReviewRow) VALUES (9, 10, '2015-02-20', 'EURFR016', 0);
 
-
-/*
 --SalesOrderDetail
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (1, 1, 1, 65000.00, 4.15, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (2, 2, 1, 220000.00, 27.27, 1);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (3, 3, 1, 19500.00, 0.00, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (4, 4, 1, 11500.00, 0.00, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (5, 5, 1, 19950.00, 0.00, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (6, 6, 1, 29500.00, 4.24, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (7, 7, 1, 49500.00, 4.95, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (8, 8, 1, 76000.00, 7.24, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (9, 9, 1, 19600.00, 0.00, 0);
-INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, LineItemDiscount, ReviewRow) VALUES (10, 10, 1, 36500.00, 6.85, 0);
-
-*/
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (1, 1, 1, 65000.00, 4.15, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (2, 2, 1, 220000.00, 27.27, 1);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (3, 3, 1, 19500.00, 0.00, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (4, 4, 1, 11500.00, 0.00, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (5, 5, 1, 19950.00, 0.00, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (6, 6, 1, 29500.00, 4.24, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (7, 7, 1, 49500.00, 4.95, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (8, 8, 1, 76000.00, 7.24, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (9, 9, 1, 19600.00, 0.00, 0);
+INSERT INTO Sales.SalesOrderDetail (SalesOrderId, VehicleId, LineItemNumber, SalePrice, DiscountPercent , ReviewRow) VALUES (10, 10, 1, 36500.00, 6.85, 0);
 GO
 
 --Final thing is creating our ITVFs

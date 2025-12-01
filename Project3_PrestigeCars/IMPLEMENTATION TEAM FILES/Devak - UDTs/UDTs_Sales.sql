@@ -1,0 +1,11 @@
+USE [PrestigeCars_Project3];
+GO
+
+CREATE TYPE Udt.InvoiceNumber
+FROM VARCHAR(50) NOT NULL;
+
+CREATE TYPE Udt.PriceAmount
+FROM DECIMAL(10,2) NOT NULL;
+
+CREATE TYPE Udt.PercentValue
+FROM DECIMAL(5,2) NOT NULL;

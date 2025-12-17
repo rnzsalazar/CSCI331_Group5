@@ -31,7 +31,7 @@
 
 ## Group 5 Video
 
-[Group5 Video]() [Group 5 (Backup)]()
+[Group5 Video](https://youtu.be/yxCO6tYxqIY) [Group 5 (Backup)](https://youtu.be/B9h-c6xVA4Q)
 
 ## Technology Used
 - SSMS

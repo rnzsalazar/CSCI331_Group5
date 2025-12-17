@@ -6,4 +6,5 @@
 - [HW 7](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/HW7)
 - [Project1](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project1)
 - [Project3_PrestigeCars](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project3_PrestigeCars)
+- [Project3_ClassSchedule](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project3_ClassSchedule)
 - [Research](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Research)

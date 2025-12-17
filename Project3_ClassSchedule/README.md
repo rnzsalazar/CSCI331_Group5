@@ -26,6 +26,8 @@
 
 [.bak file](https://github.com/rnzsalazar/CSCI331_Group5/tree/master/Project3_ClassSchedule/ClassSchedule.bak)
 
+[.vhdx file](https://drive.google.com/file/d/1cmglflmxG4gXIeL-4WIz0mJifNnkLmUZ/view?usp=sharing)
+
 ## Group 5 Presentation, Gantt and Todo List
 
 [Todo](https://github.com/rnzsalazar/CSCI331_Group5/blob/master/Project3_ClassSchedule/Class%20Time%2010_45%20-Group%20Number%205%20%E2%80%93%20To-do%20list%20for%20Project3ClassSchedule.xlsx)
